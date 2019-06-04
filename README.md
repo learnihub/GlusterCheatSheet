@@ -1,7 +1,7 @@
-# Gluster CheatSheet 
+# GlusterFS CheatSheet 
 
 
-### Print Gluster Status
+### Print GlusterFS Status
 
         # gluster peer status
 
