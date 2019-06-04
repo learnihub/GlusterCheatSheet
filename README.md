@@ -21,6 +21,6 @@ gluster volume status
 
 gluster volume status \<volume\> detail
   
-Example: \n
-      gluster volume status vol_ac647934a1946304e0fd04223280adf3  detail
-      
+Example:
+
+gluster volume status vol_ac647934a1946304e0fd04223280adf3  detail
