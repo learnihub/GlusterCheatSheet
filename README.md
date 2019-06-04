@@ -19,7 +19,7 @@ gluster volume status
 
 ### Check Free Space per Node
 
-gluster volume status <volume> detail
+gluster volume status \<volume\> detail
   
 Example: 
       gluster volume status vol_ac647934a1946304e0fd04223280adf3  detail
